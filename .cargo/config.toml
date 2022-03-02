@@ -1,0 +1,9 @@
+[build]
+# 32 bit
+target = "i686-pc-windows-msvc"
+# target = "i686-pc-windows-gnu"
+
+# 64 bit
+# target = "x86_64-pc-windows-msvc"
+# target = "x86_64-pc-windows-gnu"
+
